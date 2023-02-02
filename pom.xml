@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.optimagrowth</groupId>
-    <artifactId>Establishment-service-View</artifactId>
+    <artifactId>establishment-service-View</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Establishment service</name>
     <description>Ostock Establishment Service</description>
